@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Cyber\source\repos\HiMail\x64\Debug\HiMail.exe</FullPath>
+      <FullPath>HiMail.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

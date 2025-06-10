@@ -33,7 +33,7 @@ void PrintLogo() {
 
 void ShowMenu() {
 
-    //ahoj 
+
 
 }
 
